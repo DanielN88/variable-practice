@@ -4,3 +4,6 @@ var favoriteColor = Purple
 var petAge = 4
 var startingAge = 30
 var monthsInProgram = 7
+var isHyper = True
+var isHungry = False
+var isTired = True
